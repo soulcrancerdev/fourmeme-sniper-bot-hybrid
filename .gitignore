@@ -1,8 +1,9 @@
-.anchor
+/node-orchestrator/node_modules
+/node-orchestrator/dist
+/rust-executor/target
+**/*.env
+.env.local
 .DS_Store
+.idea
+.vscode
 target
-**/*.rs.bk
-node_modules
-package-lock.json
-test-ledger
-.yarn
